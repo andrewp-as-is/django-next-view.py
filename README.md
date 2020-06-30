@@ -1,14 +1,13 @@
 <!--
-https://pypi.org/project/readme-generator/
-https://pypi.org/project/python-readme-generator/
+https://readme42.com
 -->
 
-[![](https://img.shields.io/pypi/pyversions/django-next-view.svg?longCache=True)](https://pypi.org/project/django-next-view/)
+
 [![](https://img.shields.io/pypi/v/django-next-view.svg?maxAge=3600)](https://pypi.org/project/django-next-view/)
 [![](https://img.shields.io/badge/License-Unlicense-blue.svg?longCache=True)](https://unlicense.org/)
-[![Travis](https://api.travis-ci.org/andrewp-as-is/django-next-view.py.svg?branch=master)](https://travis-ci.org/andrewp-as-is/django-next-view.py/)
+[![](https://github.com/andrewp-as-is/django-next-view.py/workflows/tests42/badge.svg)](https://github.com/andrewp-as-is/django-next-view.py/actions)
 
-#### Installation
+### Installation
 ```bash
 $ [sudo] pip install django-next-view
 ```
@@ -33,5 +32,5 @@ add `next` arg to forms/links
 ```
 
 <p align="center">
-    <a href="https://pypi.org/project/python-readme-generator/">python-readme-generator</a>
+    <a href="https://readme42.com/">readme42.com</a>
 </p>

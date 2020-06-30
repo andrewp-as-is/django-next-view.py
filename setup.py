@@ -1,13 +1,7 @@
-try:
-    from setuptools import setup
-except ImportError:
-    from distutils.core import setup
+import setuptools
 
-
-setup(
+setuptools.setup(
     name='django-next-view',
-    version='2020.4.28',
-    packages=[
-        'django_next_view',
-    ],
+    install_requires=open('requirements.txt').read().splitlines(),
+    packages=setuptools.find_packages()
 )
